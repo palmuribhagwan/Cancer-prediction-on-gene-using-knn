@@ -1,1 +1,1 @@
-# Cancer-prediction-on-gene-using-knn
+# Cancer-prediction-using-knn-algorithm
